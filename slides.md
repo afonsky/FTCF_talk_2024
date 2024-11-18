@@ -73,11 +73,15 @@ src: ./slides/1_TomOpt.md
 ---
 
 ---
-src: ./slides/2_ECAL.md
+src: ./slides/2_NeutronTom.md
 ---
 
 ---
 src: ./slides/3_SWGO.md
+---
+
+---
+src: ./slides/4_ECALs.md
 ---
 
 ---
@@ -86,10 +90,6 @@ src: ./slides/4_GranularCalo.md
 
 ---
 src: ./slides/5_Neuromorphic.md
----
-
----
-src: ./slides/6_EMCaloMuColl.md
 ---
 
 ---

@@ -37,9 +37,10 @@
 </div>
 
 ---
+layout: center
+---
 
-# We're Waiting You at Fifth MODE Workshop in 2025 
-
+# We're Waiting You at Fifth MODE Workshop in 2025
 
 ---
 zoom: 1.2
@@ -60,14 +61,8 @@ zoom: 1.2
 
 # Conclusions
 
-* MODE Collaboration brings together a community of physicists and computer scientists to take the ML integration in fundamental science to the next level, by attacking end-to-end optimization and co-design
-
----
-
-# Conclusions
-
 <figure>
-  <img src="/mode/MODE.drawio.svg" style="width: 600px !important;">
+  <img src="/mode/MODE.drawio.svg" style="width: 640px !important; position: relative; top: -18px; left: 120px;">
 </figure>
 
 ---
